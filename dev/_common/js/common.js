@@ -8,9 +8,9 @@ gsap.defaults({
 });
 
 const read = {
-	t1: 2,
-	t2: 2.4, 
-	t3: 3
+	t1: 1.8,
+	t2: 1.2, 
+	t3: 2
 }
 
 const {w, h} = bannerSize
