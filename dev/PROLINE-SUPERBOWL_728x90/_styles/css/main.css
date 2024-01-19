@@ -256,7 +256,6 @@ canvas, .text, .frame, .outline, img {
   width: 100%;
   height: 100%;
   background-color: black;
-  opacity: .8;
   -webkit-transform: translate(0px, 0px);
   -ms-transform: translate(0px, 0px);
   transform: translate(0px, 0px);
