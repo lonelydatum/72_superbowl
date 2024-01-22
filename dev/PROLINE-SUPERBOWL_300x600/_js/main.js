@@ -22,10 +22,10 @@ function standard(){
 	tl.to([".t3", ".bubble", ".bet"], {duration:.2, opacity:0}, `+=${read.t3}`)
 
 
-	tl.add("scale")
-	tl.to([".phone"], {duration:.2, scale:.55, x:-38, y:-30}, "scale")
-	tl.to([".playa"], {duration:.2, scale:1.1, x:-25, y:-1}, "scale")
-	tl.to([".ball"], {duration:.2, scale:.55, x:-38, y:-30}, "scale")
+	// tl.add("scale")
+	// tl.to([".phone"], {duration:.2, scale:.55, x:-38, y:-30}, "scale")
+	// tl.to([".playa"], {duration:.2, scale:1.1, x:-25, y:-1}, "scale")
+	// tl.to([".ball"], {duration:.2, scale:.55, x:-38, y:-30}, "scale")
 
 
 	tl.add("tint")

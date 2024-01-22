@@ -23,10 +23,10 @@ function standard() {
 	tl.from(".t3", _extends({}, (0, _commonJsCommonJs.textOn)()));
 	tl.to([".t3", ".bubble", ".bet"], { duration: .2, opacity: 0 }, "+=" + _commonJsCommonJs.read.t3);
 
-	tl.add("scale");
-	tl.to([".phone"], { duration: .2, scale: .55, x: -38, y: -30 }, "scale");
-	tl.to([".playa"], { duration: .2, scale: 1.1, x: -25, y: -1 }, "scale");
-	tl.to([".ball"], { duration: .2, scale: .55, x: -38, y: -30 }, "scale");
+	// tl.add("scale")
+	// tl.to([".phone"], {duration:.2, scale:.55, x:-38, y:-30}, "scale")
+	// tl.to([".playa"], {duration:.2, scale:1.1, x:-25, y:-1}, "scale")
+	// tl.to([".ball"], {duration:.2, scale:.55, x:-38, y:-30}, "scale")
 
 	tl.add("tint");
 	tl.to(".proline-small", { duration: .2, opacity: 0 }, "tint");
